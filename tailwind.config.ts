@@ -9,10 +9,15 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
+        primary: "red",
+        secondary: "white",
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
     },
+    fontFamily:{
+      font:["Urbanist , sans-serif"]
+    }
   },
   plugins: [],
 };
