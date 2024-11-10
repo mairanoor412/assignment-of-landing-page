@@ -25,7 +25,7 @@ const PortfolioPage = () => {
             
 
             <Link href="https://github.com/mairanoor412/calculator-NPX-command" target="_blank">
-            <button className=" hover:bg-primary hover:border-primary border-secondary border-[1px] pt-1 pb-1 pl-7 pr-7 text-secondary text-[15px] hover:font-bold ml-[69px] mt-5 rounded-[5px]"> View Project </button>
+            <button className=" hover:bg-primary hover:border-primary border-secondary border-[1px] pt-1 pb-1 pl-7 pr-7 text-secondary text-[15px] hover:font-bold ml-[69px] mt-6 rounded-[5px]"> View Project </button>
             </Link>
           </div>
 
