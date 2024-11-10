@@ -8,7 +8,7 @@ import Image from "next/image"
       <section id="about" className="bg-zinc-950 font-font">
         <div className="flex flex-row justify-center items-center pt-24 text-4xl text-secondary font-font hover:font-bold "> <h2> About Me </h2></div>
         
-        <div className='max-w-4xl m-auto font-font leading-[1.5] tracking-[2px]  text-lg text-secondary '>
+        <div className='max-w-4xl m-auto font-font leading-[1.5] tracking-[2px]  text-[16px] text-secondary '>
           <div className='grid grid-cols-2 gap-32 py-20 '>
 
             {/*About left section */}

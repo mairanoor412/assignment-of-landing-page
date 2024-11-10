@@ -14,7 +14,7 @@ export const HeroSection = () => {
             <div className="flex flex-col justify-center items-start ">
               <p className="text-4xl"> Hey iam <span className="text-primary italic"> Maira Naeem </span> </p>
               <h1 className="text-2xl pt-6 font-bold leading-[1.5] tracking-[2px]"> FRONTEND DEVELOPER </h1>
-              <p className="pt-6 leading-[1.5] tracking-[2px] text-lg"> 
+              <p className="pt-6 leading-[1.5] tracking-[2px] text-[16px]"> 
                 Hey iam frontend developer from pakistan, dedicated to delivering beautiful, functional and user-friendly websites that exceed your expectations.
               </p>
 
