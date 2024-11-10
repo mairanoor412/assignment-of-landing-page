@@ -7,7 +7,7 @@ const PortfolioPage = () => {
   return (
     <div>
         {/*Portfolio Section  */}
-      <section id="portfolio" className="bg-black font-font">
+      <section id="portfolio" className="bg-black font-font  ">
           <div className="text-secondary flex flex-row justify-center items-center pt-20 pb-5 font-serif text-4xl hover:font-bold ">
           <h2 > Portfolio </h2>
            </div>
